@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💬 Ask me about ...
-Azure/Microsoft 365
-Tesla
 
+- 💬 Ask me about ..
+- Azure/Microsoft 365
+- Tesla
 
 
 - 🌱 I’m intrested in ...
