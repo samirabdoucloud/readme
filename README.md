@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 💬 Ask me about ...
+Azure/Microsoft 365
+Tesla
+
+
+
+- 🌱 I’m intrested in ...
+- Infrastructure as Code
+- Kubernetes
+- PowerBI
+
 <!--
 **samirabdou99/samirabdou99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
