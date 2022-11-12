@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 💬 Ask me about ..
+My name is Samir and I live in Sweden and work as a Cloud Engineer, my passion is all things related to Microsoft cloud products, automation and innovation. Feel free to reach out to me on https://www.linkedin.com/in/samir-abdou-760237167/
 
 
 
-- 🌱 I’m intrested in ...
 
 
 <!--
